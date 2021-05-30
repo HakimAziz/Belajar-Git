@@ -1,1 +1,2 @@
-ini perubahan pertama isi file. 
+Nmbah baris diatas
+ini perubahan kedua isi file. 
