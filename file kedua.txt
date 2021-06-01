@@ -1,4 +1,0 @@
-FILE khusus Branch : Branch-Baru
---------------------------
-Nmbah baris diatas
-ini perubahan kedua isi file. 
